@@ -1,0 +1,11 @@
+C:\C#\repos\örnek2\Blakjack 21\bin\Debug\Blakjack 21.exe.config
+C:\C#\repos\örnek2\Blakjack 21\bin\Debug\Blakjack 21.exe
+C:\C#\repos\örnek2\Blakjack 21\bin\Debug\Blakjack 21.pdb
+C:\C#\repos\örnek2\Blakjack 21\obj\Debug\Blakjack 21.csproj.AssemblyReference.cache
+C:\C#\repos\örnek2\Blakjack 21\obj\Debug\Blakjack 21.csproj.SuggestedBindingRedirects.cache
+C:\C#\repos\örnek2\Blakjack 21\obj\Debug\Blakjack_21.Form1.resources
+C:\C#\repos\örnek2\Blakjack 21\obj\Debug\Blakjack_21.Properties.Resources.resources
+C:\C#\repos\örnek2\Blakjack 21\obj\Debug\Blakjack 21.csproj.GenerateResource.cache
+C:\C#\repos\örnek2\Blakjack 21\obj\Debug\Blakjack 21.csproj.CoreCompileInputs.cache
+C:\C#\repos\örnek2\Blakjack 21\obj\Debug\Blakjack 21.exe
+C:\C#\repos\örnek2\Blakjack 21\obj\Debug\Blakjack 21.pdb
